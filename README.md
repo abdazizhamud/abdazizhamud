@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Hamud Abdul Aziz
-- 👀 I’m interested in 
-- 🌱 I’m currently learning C++ and many programming language.
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+Hamud Abdul Aziz.
+Love learning new things.
+Need Job ASAP.
 
 <!---
 abdazizhamud/abdazizhamud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
